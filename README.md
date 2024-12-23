@@ -34,10 +34,6 @@ With an ever-growing abundance of text data, this project addresses the challeng
 ### **2️⃣ Sentence Representation**  
 - **Embedding**: Represent sentences as vectors using Sentence-BERT.  
 - **Similarity Matrix**: Calculate contextual similarity between sentences using cosine similarity.
-
-![Process Flow](https://via.placeholder.com/600x200)  
-*Figure: Sentence embedding and similarity calculation.*
-
 ### **3️⃣ Optimization with NSGA-II**  
 - Generates decision vectors for sentence inclusion.  
 - Outputs Pareto-optimal solutions balancing coverage and redundancy.  
