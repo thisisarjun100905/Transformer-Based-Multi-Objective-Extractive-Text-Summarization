@@ -64,7 +64,7 @@ With an ever-growing abundance of text data, this project addresses the challeng
 
 ## 🖼 Visual Results  
 ### **ROUGE Score Distribution**  
-![ROUGE Distribution Graph](https://via.placeholder.com/600x300)  
+![ROUGE Distribution Graph](https://github.com/thisisarjun100905/Transformer-Based-Multi-Objective-Extractive-Text-Summarization/blob/main/bar.png?raw=true)  
 *Graph: ROUGE score comparison for various documents.*
 
 ---
