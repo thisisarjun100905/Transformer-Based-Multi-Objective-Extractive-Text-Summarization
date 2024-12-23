@@ -49,7 +49,7 @@ With an ever-growing abundance of text data, this project addresses the challeng
 ## 📊 Results  
 
 ### **1️⃣ Convergence of NSGA-II**  
-![Convergence Graph](https://via.placeholder.com/600x300)  
+![Convergence Graph](https://github.com/thisisarjun100905/Transformer-Based-Multi-Objective-Extractive-Text-Summarization/blob/main/Screenshot%202024-12-23%20220202.png?raw=true)
 *Graph: Mean and standard deviation of dissimilarity across generations.*
 
 ### **2️⃣ Pareto Front Example**  
