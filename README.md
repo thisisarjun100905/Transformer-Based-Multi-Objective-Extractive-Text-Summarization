@@ -4,7 +4,6 @@ Here’s a revised version of the README file with placeholders for graphs, ensu
 
 # 🌟 Transformer-Based Multi-Objective Extractive Text Summarization
 
-![Summary Icon](https://via.placeholder.com/100)  
 *Effortlessly create high-quality summaries optimized for coverage and redundancy.*
 
 ---
@@ -49,9 +48,7 @@ With an ever-growing abundance of text data, this project addresses the challeng
 ## 📊 Results  
 
 ### **1️⃣ Convergence of NSGA-II**  
-![Convergence Graph](https://github.com/thisisarjun100905/Transformer-Based-Multi-Objective-Extractive-Text-Summarization/blob/main/Screenshot%202024-12-23%20220202.png?raw=true)
-*Graph: Mean and standard deviation of dissimilarity across generations.*
-
+![Convergence Graph](https://github.com/thisisarjun100905/Transformer-Based-Multi-Objective-Extractive-Text-Summarization/blob/main/entropy.png?raw=true)
 ### **2️⃣ Pareto Front Example**  
 ![Pareto Front Graph](https://github.com/thisisarjun100905/Transformer-Based-Multi-Objective-Extractive-Text-Summarization/blob/main/Screenshot%202024-12-23%20220202.png?raw=true) 
 *Graph: Trade-offs between coverage and redundancy.*
@@ -69,10 +66,6 @@ With an ever-growing abundance of text data, this project addresses the challeng
 ### **ROUGE Score Distribution**  
 ![ROUGE Distribution Graph](https://via.placeholder.com/600x300)  
 *Graph: ROUGE score comparison for various documents.*
-
-### **Sample Generated Summary**  
-![Summary Graph](https://via.placeholder.com/600x300)  
-*Graph: Key sentence selection and redundancy reduction.*
 
 ---
 
@@ -97,5 +90,6 @@ This project introduces a novel approach to extractive text summarization by int
 ---
 
 ## ✨ Authors  
-- **Arjun** 
+- **Arjun**
+- **Email** (arjunkumar100905@gmail.com)
 ---
